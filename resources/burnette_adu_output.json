@@ -1,0 +1,222 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Service",
+    "name": "ADU Design & Build in Antelope, CA",
+    "serviceType": "ADU Construction",
+    "description": "Burnette Construction offers full-service ADU design and build in Antelope, CA — from permit-ready architectural drawings to final inspection.",
+    "url": "https://burnetteco.com/adu-design-build/",
+    "provider": {
+        "@type": "GeneralContractor",
+        "name": "Burnette Construction",
+        "telephone": "+19168219353",
+        "hasMap": "https://www.google.com/maps?cid=899938478654821731",
+        "sameAs": [
+            "https://www.facebook.com/burnetteconstruction",
+            "https://www.linkedin.com/in/burnetteconstruc",
+            "https://maps.app.goo.gl/bCk2933GJ5BovQVZ7",
+            "https://www.google.com/maps/place/?q=place_id:ChIJdUDaXdTXmoARYxXtO0c5fQw",
+            "https://www.google.com/search?kgmid=/g/11tp2gy1zy",
+            "https://www.google.com/maps?cid=899938478654821731"
+        ],
+        "priceRange": "$$$",
+        "paymentAccepted": "Cash, Credit Card, Visa/Master Card, PayPal",
+        "currenciesAccepted": "USD",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "87",
+            "bestRating": "5",
+            "worstRating": "1"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "8100 Otium Way",
+            "addressLocality": "Antelope",
+            "addressRegion": "California",
+            "postalCode": "95843",
+            "addressCountry": "US",
+            "name": "Burnette Construction",
+            "@id": "https://burnetteco.com/#PostalAddress"
+        },
+        "url": "https://burnetteco.com",
+        "@id": "https://burnetteco.com/#BurnetteConstruction",
+        "image": "https://burnetteco.com/wp-content/uploads/burnette-construction-logo.png",
+        "foundingDate": "2021-12-03",
+        "founder": {
+            "@type": "Person",
+            "name": "Christian Perry"
+        }
+    },
+    "areaServed": [
+        {
+            "@type": "City",
+            "name": "Antelope",
+            "sameAs": "https://en.wikipedia.org/wiki/Antelope,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Sacramento",
+            "sameAs": "https://en.wikipedia.org/wiki/Sacramento,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Citrus Heights",
+            "sameAs": "https://en.wikipedia.org/wiki/Citrus_Heights,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Carmichael",
+            "sameAs": "https://en.wikipedia.org/wiki/Carmichael,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Fair Oaks",
+            "sameAs": "https://en.wikipedia.org/wiki/Fair_Oaks,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Folsom",
+            "sameAs": "https://en.wikipedia.org/wiki/Folsom,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Rancho Cordova",
+            "sameAs": "https://en.wikipedia.org/wiki/Rancho_Cordova,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Rocklin",
+            "sameAs": "https://en.wikipedia.org/wiki/Rocklin,_California"
+        },
+        {
+            "@type": "City",
+            "name": "Roseville",
+            "sameAs": "https://en.wikipedia.org/wiki/Roseville,_California"
+        }
+    ],
+    "offers": {
+        "@type": "Offer",
+        "name": "ADU Design & Build",
+        "url": "https://burnetteco.com/adu-design-build/",
+        "availability": "https://schema.org/InStock",
+        "priceSpecification": {
+            "@type": "PriceSpecification",
+            "priceCurrency": "USD",
+            "price": "0",
+            "description": "Free estimate available. Contact for custom quote."
+        },
+        "seller": {
+            "@type": "GeneralContractor",
+            "name": "Burnette Construction"
+        }
+    },
+    "serviceOutput": {
+        "@type": "Thing",
+        "name": "Permitted, Move-In-Ready Accessory Dwelling Unit",
+        "description": "A complete, code-compliant ADU (attached, detached, or garage conversion) fully permitted by Sacramento County, ready for occupancy or rental."
+    },
+    "brand": {
+        "@type": "Organization",
+        "name": "Burnette Construction",
+        "url": "https://burnetteco.com",
+        "@id": "https://burnetteco.com/#organization"
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://burnetteco.com/adu-design-build/",
+        "name": "ADU Design & Build | Burnette Construction",
+        "url": "https://burnetteco.com/adu-design-build/",
+        "about": [
+            {
+                "@type": "Thing",
+                "name": "Accessory Dwelling Unit",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Accessory_dwelling_unit",
+                    "https://www.wikidata.org/wiki/Q18562603",
+                    "https://www.google.com/search?kgmid=/m/07yk30"
+                ],
+                "description": "A secondary housing unit on a single-family residential lot, either attached or detached from the primary dwelling."
+            },
+            {
+                "@type": "Thing",
+                "name": "General contractor",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/General_contractor",
+                    "https://www.wikidata.org/wiki/Q1139982",
+                    "https://www.google.com/search?kgmid=/m/01nk3b"
+                ],
+                "description": "A professional responsible for the day-to-day oversight of a construction site, management of vendors and trades, and communication throughout a project."
+            },
+            {
+                "@type": "Thing",
+                "name": "Building permit",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Building_permit",
+                    "https://www.wikidata.org/wiki/Q2916482",
+                    "https://www.google.com/search?kgmid=/m/0j4bm"
+                ],
+                "description": "Approval granted by a local government body that authorizes a construction project to proceed."
+            },
+            {
+                "@type": "Thing",
+                "name": "Residential construction",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Residential_construction",
+                    "https://www.wikidata.org/wiki/Q811430"
+                ],
+                "description": "The construction of houses or buildings for private residence."
+            },
+            {
+                "@type": "Thing",
+                "name": "Garage conversion",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Garage_conversion",
+                    "https://www.wikidata.org/wiki/Q5522441"
+                ],
+                "description": "The conversion of an existing garage to a living space, often used to create an ADU."
+            }
+        ],
+        "mentions": [
+            {
+                "@type": "Thing",
+                "name": "Zoning",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Zoning",
+                    "https://www.wikidata.org/wiki/Q948149",
+                    "https://www.google.com/search?kgmid=/m/01z7d8"
+                ],
+                "description": "A method of urban land use planning which divides land into areas called zones, each with a set of regulations."
+            },
+            {
+                "@type": "Thing",
+                "name": "California Building Code",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/California_Building_Code",
+                    "https://www.wikidata.org/wiki/Q5020461"
+                ],
+                "description": "The construction standards adopted by the state of California, based on the International Building Code."
+            },
+            {
+                "@type": "Thing",
+                "name": "Foundation (engineering)",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Foundation_(engineering)",
+                    "https://www.wikidata.org/wiki/Q163730",
+                    "https://www.google.com/search?kgmid=/m/035wy7"
+                ],
+                "description": "The lowest and supporting layer of a structure, transmitting its weight to the underlying natural ground."
+            },
+            {
+                "@type": "Thing",
+                "name": "Construction management",
+                "sameAs": [
+                    "https://en.wikipedia.org/wiki/Construction_management",
+                    "https://www.wikidata.org/wiki/Q1090849"
+                ],
+                "description": "A professional service that uses specialized management techniques to oversee the planning, design, and construction of a project."
+            }
+        ]
+    }
+}
+</script>
